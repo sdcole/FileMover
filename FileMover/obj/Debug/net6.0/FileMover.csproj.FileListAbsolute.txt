@@ -1,0 +1,15 @@
+C:\Users\saeba\source\repos\FileMover\FileMover\bin\Debug\net6.0\FileMover.exe
+C:\Users\saeba\source\repos\FileMover\FileMover\bin\Debug\net6.0\FileMover.deps.json
+C:\Users\saeba\source\repos\FileMover\FileMover\bin\Debug\net6.0\FileMover.runtimeconfig.json
+C:\Users\saeba\source\repos\FileMover\FileMover\bin\Debug\net6.0\FileMover.dll
+C:\Users\saeba\source\repos\FileMover\FileMover\bin\Debug\net6.0\FileMover.pdb
+C:\Users\saeba\source\repos\FileMover\FileMover\obj\Debug\net6.0\FileMover.csproj.AssemblyReference.cache
+C:\Users\saeba\source\repos\FileMover\FileMover\obj\Debug\net6.0\FileMover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saeba\source\repos\FileMover\FileMover\obj\Debug\net6.0\FileMover.AssemblyInfoInputs.cache
+C:\Users\saeba\source\repos\FileMover\FileMover\obj\Debug\net6.0\FileMover.AssemblyInfo.cs
+C:\Users\saeba\source\repos\FileMover\FileMover\obj\Debug\net6.0\FileMover.csproj.CoreCompileInputs.cache
+C:\Users\saeba\source\repos\FileMover\FileMover\obj\Debug\net6.0\FileMover.dll
+C:\Users\saeba\source\repos\FileMover\FileMover\obj\Debug\net6.0\refint\FileMover.dll
+C:\Users\saeba\source\repos\FileMover\FileMover\obj\Debug\net6.0\FileMover.pdb
+C:\Users\saeba\source\repos\FileMover\FileMover\obj\Debug\net6.0\FileMover.genruntimeconfig.cache
+C:\Users\saeba\source\repos\FileMover\FileMover\obj\Debug\net6.0\ref\FileMover.dll
